@@ -12,7 +12,9 @@ https://cs50.edx.org
 
 https://www.youtube.com/watch?v=Ok6LbV6bqaE
 
-- **DRY** - Do not repeat yourself!
+- > **DRY** - Do not repeat yourself!
+
+---
 
 ### 26.05.19 - Sunday
 - (Right to Left (The Mirror World
