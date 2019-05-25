@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=Ok6LbV6bqaE
 ---
 
 ### 26.05.19 - Sunday
-- **(Right to Left (The Mirror World**
+- **(Right to Left (** The Mirror World
 
 https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/
 
-- **Building Spotify’s New Web Player**
+- Building **Spotify’s New Web Player**
 
 https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/
