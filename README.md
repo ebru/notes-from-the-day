@@ -24,3 +24,9 @@ https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/
 - Building **Spotify’s New Web Player**
 
 https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/
+
+---
+
+### Some Time
+
+- **Scratch program, Assignment 0** from CS50
