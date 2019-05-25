@@ -2,7 +2,7 @@
 This is a little diary for me to track the progress and learning.
 
 ### 25.05.19 - Saturday
-- Created a web development learning roadmap as a bucket list with no deadline.
+- Created a web development learning roadmap.
 
 - **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 0 +**
 
