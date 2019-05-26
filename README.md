@@ -38,6 +38,10 @@ Part 2: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use
 
 Part 2½: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-2-1-598815d74f9c
 
+- 14 Rules for **Faster-Loading Web Sites**
+
+http://stevesouders.com/hpws/rules.php
+
 ---
 
 ### Some Time
