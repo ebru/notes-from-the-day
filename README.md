@@ -27,6 +27,15 @@ https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/
 
 - **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 1**
 
+### 27.05.19 - Monday
+- **Optimising SVGs** for Web Use
+
+Part 1: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035
+
+Part 2: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-2-6711cc15df46
+
+Part 2½: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-2-1-598815d74f9c
+
 ---
 
 ### Some Time
