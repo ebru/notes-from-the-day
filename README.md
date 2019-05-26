@@ -25,8 +25,11 @@ https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/
 
 https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/
 
+- **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 1**
+
 ---
 
 ### Some Time
 
 - **Scratch program, Assignment 0** from CS50
+- **Hello, Mario and Credit in C, Assignment 1** from CS50
