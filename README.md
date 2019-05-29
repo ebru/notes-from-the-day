@@ -25,11 +25,9 @@ https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/
 
 https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/
 
-- **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 1**
-
 ---
 
-### 27.05.19 - Monday
+### 29.05.19 - Monday
 - **Optimising SVGs** for Web Use
 
 Part 1: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035
@@ -46,5 +44,6 @@ http://stevesouders.com/hpws/rules.php
 
 ### Some Time
 
+- **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 1**
 - **Scratch program, Assignment 0** from CS50
 - **Hello, Mario and Credit in C, Assignment 1** from CS50
