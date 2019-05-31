@@ -50,8 +50,14 @@ https://dzone.com/articles/advanced-git-commands-rewriting-history
 ```
 git commit --amend --no-edit // add staged changes to the previous commit
 
+git checkout master
+git pull
 git checkout feature/my-feature-branch
 git rebase master // add the commits to the most up-to-date version of the master branch
+git checkout master
+git merge feature/my-feature-branch
+
+git rebase -i master // interactive rebase, change the way git applies your commits
 
 ```
 
