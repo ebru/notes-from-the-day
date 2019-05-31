@@ -42,6 +42,11 @@ http://stevesouders.com/hpws/rules.php
 
 ---
 
+### 31.05.19 - Friday
+- Advanced Git Commands: **Rewriting History**
+
+https://dzone.com/articles/advanced-git-commands-rewriting-history
+
 ### Some Time
 
 - **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 1**
