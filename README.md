@@ -47,6 +47,14 @@ http://stevesouders.com/hpws/rules.php
 
 https://dzone.com/articles/advanced-git-commands-rewriting-history
 
+```
+git commit --amend --no-edit // add staged changes to the previous commit
+
+git checkout feature/my-feature-branch
+git rebase master // add the commits to the most up-to-date version of the master branch
+
+```
+
 ### Some Time
 
 - **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 1**
