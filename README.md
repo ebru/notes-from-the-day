@@ -36,10 +36,6 @@ Part 2: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use
 
 Part 2½: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-2-1-598815d74f9c
 
-- 14 Rules for **Faster-Loading Web Sites**
-
-http://stevesouders.com/hpws/rules.php
-
 ---
 
 ### 31.05.19 - Friday
@@ -61,8 +57,8 @@ git rebase -i master // interactive rebase, change the way git applies your comm
 
 ```
 
-### Some Time
-
 - **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 1**
+
+### Some Time
 - **Scratch program, Assignment 0** from CS50
 - **Hello, Mario and Credit in C, Assignment 1** from CS50
