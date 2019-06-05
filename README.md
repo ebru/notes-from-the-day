@@ -61,6 +61,19 @@ git rebase -i master // interactive rebase, change the way git applies your comm
 
 - **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 1**
 
+---
+
+### 05.06.19 - Wednesday
+- What **The Flexbox?!** (20 chapters)
+
+https://flexbox.io/
+
+- A Complete Guide to Flexbox
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+---
+
 ### Some Time
 - **Scratch program, Assignment 0** from CS50
 - **Hello, Mario and Credit in C, Assignment 1** from CS50
