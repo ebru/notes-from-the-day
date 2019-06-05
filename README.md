@@ -68,7 +68,7 @@ git rebase -i master // interactive rebase, change the way git applies your comm
 
 https://flexbox.io/
 
-- A Complete Guide to Flexbox
+- A Complete Guide to **Flexbox**
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
