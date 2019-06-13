@@ -74,6 +74,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ---
 
-### Some Time
-- **Scratch program, Assignment 0** from CS50
-- **Hello, Mario and Credit in C, Assignment 1** from CS50
+### 12.06.19 - Wednesday
+- New style! Oh My Zsh + Theme – **Bira** + iTerm Color Preset – **ayu**
+
+https://ohmyz.sh/ + https://github.com/robbyrussell/oh-my-zsh/wiki/Themes + https://iterm2colorschemes.com/
