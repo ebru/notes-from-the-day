@@ -83,6 +83,6 @@ https://ohmyz.sh/ + https://github.com/robbyrussell/oh-my-zsh/wiki/Themes + http
 
 
 ### 21.06.19 - Saturday
-- ***Interneting Is Hard*** (14 chapters)
+- **Interneting Is Hard** (14 chapters)
 
 https://internetingishard.com/html-and-css/
