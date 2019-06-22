@@ -78,3 +78,11 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - New style! Oh My Zsh + Theme – **Bira** + iTerm Color Preset – **ayu**
 
 https://ohmyz.sh/ + https://github.com/robbyrussell/oh-my-zsh/wiki/Themes + https://iterm2colorschemes.com/
+
+---
+
+
+### 21.06.19 - Wednesday
+- ***Interneting Is Hard*** (14 chapters)
+
+https://internetingishard.com/html-and-css/
