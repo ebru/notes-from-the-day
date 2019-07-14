@@ -86,3 +86,37 @@ https://ohmyz.sh/ + https://github.com/robbyrussell/oh-my-zsh/wiki/Themes + http
 - **Interneting Is Hard** (14 chapters)
 
 https://internetingishard.com/html-and-css/
+
+
+---
+
+### 01.07.19 - Monday
+- Yearly objectives has been set.
+
+1. **AWS Certified Developer – Associate** to get.
+2. Have expertise on **Symfony.**
+
+
+---
+
+### 14.07.19 - Sunday
+So far on Ultimate AWS Certified Developer Associate 2019 on Udemy
+
+#### AWS Fundamentals:
+
+- **IAM** (Identity and Access Management)
+- **EC2** (Elastic Compute Cloud)
+
+- **ELB** (Elastic Load Balancing)
+- **ASG** (Auto Scaling Groups)
+- **EBS** (Elastic Block Store)
+
+- **Route 53** (DNS Server)
+- **RDS** (Relational Database Service )
+- **ElastiCache** (Cache Server)
+- **VPC** (Virtual Private Cloud)
+
+- **S3** (Buckets, Storing Service)
+
+- **CLI** (Command Line Interface)
+- **SDK** (Software Development Kit)
