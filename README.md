@@ -90,7 +90,7 @@ https://internetingishard.com/html-and-css/
 
 ---
 
-### 01.7.19
+### 1.7.19
 Yearly objectives has been set.
 
 1. **AWS Certified Developer – Associate** to get.
