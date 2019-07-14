@@ -1,7 +1,7 @@
 # notes from the day.
 This is a little diary for me to track the progress and learning.
 
-### 25.05.19 - Saturday
+### 25.5.19
 - Created a web development learning roadmap.
 
 - **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 0**
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=Ok6LbV6bqaE
 
 ---
 
-### 26.05.19 - Sunday
+### 26.5.19
 - **(Right to Left (** The Mirror World
 
 https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/
@@ -27,7 +27,7 @@ https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/
 
 ---
 
-### 29.05.19 - Monday
+### 29.5.19
 **Optimising SVGs** for Web Use
 
 Part 1: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035
@@ -38,7 +38,7 @@ Part 2½: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-u
 
 ---
 
-### 31.05.19 - Friday
+### 31.5.19
 - Advanced Git Commands: **Rewriting History**
 
 https://dzone.com/articles/advanced-git-commands-rewriting-history
@@ -63,7 +63,7 @@ git rebase -i master // interactive rebase, change the way git applies your comm
 
 ---
 
-### 05.06.19 - Wednesday
+### 5.6.19
 - What **The Flexbox?!** (20 chapters)
 
 https://flexbox.io/
@@ -74,7 +74,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ---
 
-### 12.06.19 - Wednesday
+### 12.6.19
 New style! Oh My Zsh + Theme – **Bira** + iTerm Color Preset – **ayu**
 
 https://ohmyz.sh/ + https://github.com/robbyrussell/oh-my-zsh/wiki/Themes + https://iterm2colorschemes.com/
@@ -82,7 +82,7 @@ https://ohmyz.sh/ + https://github.com/robbyrussell/oh-my-zsh/wiki/Themes + http
 ---
 
 
-### 21.06.19 - Saturday
+### 21.6.19
 **Interneting Is Hard** (14 chapters)
 
 https://internetingishard.com/html-and-css/
@@ -90,7 +90,7 @@ https://internetingishard.com/html-and-css/
 
 ---
 
-### 01.07.19 - Monday
+### 01.7.19
 Yearly objectives has been set.
 
 1. **AWS Certified Developer – Associate** to get.
@@ -99,7 +99,7 @@ Yearly objectives has been set.
 
 ---
 
-### 14.07.19 - Sunday
+### 14.7.19
 So far on Ultimate AWS Certified Developer Associate 2019 on Udemy
 
 #### AWS Fundamentals:
