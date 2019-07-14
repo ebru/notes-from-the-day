@@ -28,7 +28,7 @@ https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/
 ---
 
 ### 29.05.19 - Monday
-- **Optimising SVGs** for Web Use
+**Optimising SVGs** for Web Use
 
 Part 1: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035
 
@@ -75,7 +75,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 ---
 
 ### 12.06.19 - Wednesday
-- New style! Oh My Zsh + Theme – **Bira** + iTerm Color Preset – **ayu**
+New style! Oh My Zsh + Theme – **Bira** + iTerm Color Preset – **ayu**
 
 https://ohmyz.sh/ + https://github.com/robbyrussell/oh-my-zsh/wiki/Themes + https://iterm2colorschemes.com/
 
@@ -83,7 +83,7 @@ https://ohmyz.sh/ + https://github.com/robbyrussell/oh-my-zsh/wiki/Themes + http
 
 
 ### 21.06.19 - Saturday
-- **Interneting Is Hard** (14 chapters)
+**Interneting Is Hard** (14 chapters)
 
 https://internetingishard.com/html-and-css/
 
@@ -91,7 +91,7 @@ https://internetingishard.com/html-and-css/
 ---
 
 ### 01.07.19 - Monday
-- Yearly objectives has been set.
+Yearly objectives has been set.
 
 1. **AWS Certified Developer – Associate** to get.
 2. Have expertise on **Symfony.**
