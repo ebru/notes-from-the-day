@@ -120,3 +120,17 @@ So far on Ultimate AWS Certified Developer Associate 2019 on Udemy
 
 - **CLI** (Command Line Interface)
 - **SDK** (Software Development Kit)
+
+---
+
+### 15.7.19
+**From Zero to App**: One project from start to finish
+
+https://www.youtube.com/watch?v=qaKTmcclmug&list=PLRpq_iSq4KCHOpRymcaj6PMhrX-cLpz6e
+
+- HTML, CSS (Tailwind)
+- JS, React, React Router
+- GraphQL, Apollo
+- IndexedDB
+- PWA (Service Workers, Push Notifications, Cache API)
+- Node.js, Express, PostgreSQL
