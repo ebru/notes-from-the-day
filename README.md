@@ -100,7 +100,9 @@ Yearly objectives has been set.
 ---
 
 ### 14.7.19
-So far on Ultimate AWS Certified Developer Associate 2019 on Udemy
+So far on **Ultimate AWS Certified Developer Associate 2019** on Udemy
+
+https://www.udemy.com/aws-certified-developer-associate-dva-c01/
 
 #### AWS Fundamentals:
 
