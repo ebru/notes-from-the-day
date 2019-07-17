@@ -136,3 +136,34 @@ https://www.youtube.com/watch?v=qaKTmcclmug&list=PLRpq_iSq4KCHOpRymcaj6PMhrX-cLp
 - IndexedDB
 - PWA (Service Workers, Push Notifications, Cache API)
 - Node.js, Express, PostgreSQL
+
+---
+
+### 17.7.19
+PHPUnit sample **mock builder:**
+```
+$redirectId = '1';
+
+$mockGeoIpRedirect = $this->getMockBuilder( GeoIpRedirect::class )
+  ->disableOriginalConstructor()
+  ->setMethods( ['removeRedirectById'] )
+  ->getMock();
+
+$mockGeoIpRedirect->expects( $this->once() )
+  ->method( 'removeRedirectById' )
+  ->with( $redirectId )
+  ->willReturn( 0 );
+
+$result = $mockGeoIpRedirect->removeRedirect( $redirectId );
+$expected = [
+  'type' => 'error',
+  'message' => 'Something went wrong with removing the redirect.'
+];
+
+$this->assertEquals( $result, $expected );
+
+// Set constructor args
+// $mockGeoIpRedirect
+//    ->setConstructorArgs( [ $redirectDataToUpdate ] ))
+
+```
