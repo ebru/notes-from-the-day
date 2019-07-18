@@ -167,3 +167,10 @@ $this->assertEquals( $result, $expected );
 //    ->setConstructorArgs( [ $redirectDataToUpdate ] ))
 
 ```
+
+---
+
+### 18.7.19
+What you need to know to become a **full-stack serverless developer?**
+
+https://www.freecodecamp.org/news/what-you-need-to-become-a-full-stack-serverless-developer/
