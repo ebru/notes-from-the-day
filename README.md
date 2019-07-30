@@ -183,3 +183,11 @@ React Component Libraries
 - **Grommet Design Kit** - https://github.com/grommet/design-kit
 - **Ant Design of React** - https://ant.design/docs/react/introduce
 - **Material UI** - https://material-ui.com/
+
+React Admin Dashboard Templates
+
+- **Shards Dashboard** - https://designrevision.com/demo/shards-dashboard-lite-react/blog-overview#
+- **Antd Admin** - https://antd-admin.zuiidea.com/en/dashboard
+- **Devias Kit** - https://react-material-dashboard.devias.io/dashboard
+- **CoreUi Dashboard** - https://coreui.io/react/demo/#/dashboard
+- **Tabler React** - http://tabler-react.com/
