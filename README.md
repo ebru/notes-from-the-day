@@ -189,5 +189,5 @@ React Admin Dashboard Templates
 - **Shards Dashboard** - https://designrevision.com/demo/shards-dashboard-lite-react/blog-overview#
 - **Antd Admin** - https://antd-admin.zuiidea.com/en/dashboard
 - **Devias Kit** - https://react-material-dashboard.devias.io/dashboard
-- **CoreUi Dashboard** - https://coreui.io/react/demo/#/dashboard
+- **CoreUI Dashboard** - https://coreui.io/react/demo/#/dashboard
 - **Tabler React** - http://tabler-react.com/
