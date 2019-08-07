@@ -191,3 +191,11 @@ React Admin Dashboard Templates
 - **Devias Kit** - https://react-material-dashboard.devias.io/dashboard
 - **CoreUI Dashboard** - https://coreui.io/react/demo/#/dashboard
 - **Tabler React** - http://tabler-react.com/
+
+---
+
+### 7.8.19
+Indie making communities
+
+- **Maker Mag** - https://makermag.com/
+- **Indie Hackers** - https://www.indiehackers.com/
