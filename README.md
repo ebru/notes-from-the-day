@@ -198,4 +198,5 @@ React Admin Dashboard Templates
 Indie making communities
 
 - **Maker Mag** - https://makermag.com/
+- **Product Hunt** - https://www.producthunt.com/
 - **Indie Hackers** - https://www.indiehackers.com/
