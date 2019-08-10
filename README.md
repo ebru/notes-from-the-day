@@ -207,19 +207,19 @@ Indie making communities
 **AWS Elastic Beanstalk** Docker Multi Container Deployment
 
 ```
-$zip -r deployment.zip .
+$ zip -r deployment.zip .
 
 $ aws s3 mb s3://test-docker-eb --region eu-west-1
 
 $ aws s3 cp deployment.zip s3://test-docker-eb --region eu-west-1
 
-$aws elasticbeanstalk create-application-version --application-name test \
+$ aws elasticbeanstalk create-application-version --application-name test \
     --version-label v1 \
     --source-bundle S3Bucket="test-docker-eb",S3Key="deployment.zip" \
     --auto-create-application \
     --region eu-west-1
 
-$aws elasticbeanstalk update-environment --application-name test \
+$ aws elasticbeanstalk update-environment --application-name test \
     --environment-name stage \
     --version-label v1 --region eu-west-1
 ```
