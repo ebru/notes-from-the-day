@@ -200,3 +200,28 @@ Indie making communities
 - **Maker Mag** - https://makermag.com/
 - **Product Hunt** - https://www.producthunt.com/
 - **Indie Hackers** - https://www.indiehackers.com/
+
+---
+
+### 10.8.19
+**AWS Elastic Beanstalk** Docker Multi Container Deployment
+
+```
+$zip -r deployment.zip .
+
+$ aws s3 mb s3://test-docker-eb --region eu-west-1
+
+$ aws s3 cp deployment.zip s3://test-docker-eb --region eu-west-1
+
+$aws elasticbeanstalk create-application-version --application-name test \
+    --version-label v1 \
+    --source-bundle S3Bucket="test-docker-eb",S3Key="deployment.zip" \
+    --auto-create-application \
+    --region eu-west-1
+
+$aws elasticbeanstalk update-environment --application-name test \
+    --environment-name stage \
+    --version-label v1 --region eu-west-1
+```
+
+- https://read.acloud.guru/docker-on-elastic-beanstalk-tips-e1a4e6b70ff2
