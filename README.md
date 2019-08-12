@@ -225,3 +225,10 @@ $ aws elasticbeanstalk update-environment --application-name test \
 ```
 
 - https://read.acloud.guru/docker-on-elastic-beanstalk-tips-e1a4e6b70ff2
+
+---
+
+### 7.8.19
+**AWS Elastic Beanstalk** Survival Guide (7 chapters)
+
+- https://colintoh.com/blog/aws-elastic-beanstalk-survival-guide-introduction
