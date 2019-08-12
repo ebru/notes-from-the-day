@@ -228,7 +228,7 @@ $ aws elasticbeanstalk update-environment --application-name test \
 
 ---
 
-### 7.8.19
+### 12.8.19
 **AWS Elastic Beanstalk** Survival Guide (7 chapters)
 
 - https://colintoh.com/blog/aws-elastic-beanstalk-survival-guide-introduction
