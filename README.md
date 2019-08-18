@@ -231,4 +231,18 @@ $ aws elasticbeanstalk update-environment --application-name test \
 ### 12.8.19
 **AWS Elastic Beanstalk** Survival Guide (7 chapters)
 
-- https://colintoh.com/blog/aws-elastic-beanstalk-survival-guide-introduction
+https://colintoh.com/blog/aws-elastic-beanstalk-survival-guide-introduction
+
+---
+
+### 10.8.19
+Just started out with React on a little side project. Here comes the **Euphony!**
+
+https://github.com/ebrukye/euphony
+
+---
+
+### 18.8.19
+Complete **React** Developer in 2019 (w/ Redux, Hooks, GraphQL)
+
+https://www.udemy.com/complete-react-developer-zero-to-mastery/
