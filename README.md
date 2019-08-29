@@ -246,3 +246,19 @@ https://github.com/ebrukye/euphony
 Complete **React** Developer in 2019 (w/ Redux, Hooks, GraphQL)
 
 https://www.udemy.com/complete-react-developer-zero-to-mastery/
+
+---
+
+### 29.8.19
+**What is the difference between Docker and Virtual Machines?**
+
+In docker, isolation is done on the kernel level without the need for a quest operating system. It shares the host operating system.
+
+**What is the relation between Docker and Kubernetes?**
+
+Kubernetes is a container orchestration system for Docker containers and uses pods which include one container or more. Kubernetes is a tool that coordinates and schedules containes, solves how different containers communicate each other and how can container instances be scaled.
+
+**What is the difference between imperative and declarative deployments?**
+
+In imperative deployments, you say what to do, decide on current states and all steps to do.
+In declarative deployments, you say what you need in a config file and a tool does it for you. (Like master in k8s.) It is done somehow and you do not care about how.
