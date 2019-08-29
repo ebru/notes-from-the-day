@@ -238,7 +238,7 @@ https://colintoh.com/blog/aws-elastic-beanstalk-survival-guide-introduction
 ### 10.8.19
 Just started out with React on a little side project. Here comes the **Euphony!**
 
-https://github.com/ebrukye/euphony
+https://github.com/ebru/euphony
 
 ---
 
