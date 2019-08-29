@@ -261,4 +261,4 @@ Kubernetes is a container orchestration system for Docker containers and uses po
 **What is the difference between imperative and declarative deployments?**
 
 In imperative deployments, you say what to do, decide on current states and all steps to do.
-In declarative deployments, you say what you need in a config file and a tool does it for you. (Like master in k8s.) It is done somehow and you do not care about steps.
+In declarative deployments, you say what you need in a config file and a tool does it for you. (Like master in k8s.) It is done somehow and you do not care about previous steps.
