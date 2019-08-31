@@ -262,3 +262,13 @@ Kubernetes is a container orchestration system for Docker containers and uses po
 
 In imperative deployments, you say what to do, decide on current states and all steps to do.
 In declarative deployments, you say what you need in a config file and a tool does it for you. (Like master in k8s.) It is done somehow and you do not care about previous steps.
+
+---
+
+### 31.8.19
+**Creating a Side Project**, eBook (8 Stages, 43 Strategies & 59 Tools)
+
+A practical guide on how to become a Viking and beat every problem you will face when building a side project.
+
+https://www.failory.com/side-project
+
