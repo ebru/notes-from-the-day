@@ -278,3 +278,11 @@ https://www.failory.com/side-project
 **GraphQL Tutorial**, by Net Ninja
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
+
+
+---
+
+### 2.10.19
+**Algorithms and Data Structures, Again!**, JavaScript Algorithms and Data Structures Master Class on Udemy
+
+https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/
