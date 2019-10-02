@@ -274,7 +274,7 @@ https://www.failory.com/side-project
 
 ---
 
-### 01.10.19
+### 1.10.19
 **GraphQL Tutorial**, by Net Ninja
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
