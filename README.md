@@ -283,6 +283,26 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
 ---
 
 ### 2.10.19
-**Algorithms and Data Structures, Again!**, JavaScript Algorithms and Data Structures Masterclass on Udemy
+- **Algorithms and Data Structures, Again!**, JavaScript Algorithms and Data Structures Masterclass on Udemy
 
 https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/
+
+- Find the **execution time of a function** in JS
+
+```
+console.time();
+function();
+console.endTime();
+
+// [ 70 ]
+default: 10.331ms
+```
+
+On browser:
+```
+let t1 = performance.now();
+function();
+let t2 = performance.now();
+
+console.log(`Time elapsed: ${(t2 - t1)/1000} seconds`);
+```
