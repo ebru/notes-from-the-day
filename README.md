@@ -283,6 +283,6 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
 ---
 
 ### 2.10.19
-**Algorithms and Data Structures, Again!**, JavaScript Algorithms and Data Structures Master Class on Udemy
+**Algorithms and Data Structures, Again!**, JavaScript Algorithms and Data Structures Masterclass on Udemy
 
 https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/
