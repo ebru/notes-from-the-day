@@ -312,3 +312,18 @@ let t2 = performance.now();
 
 console.log(`Time elapsed: ${(t2 - t1)/1000} seconds`);
 ```
+
+---
+
+### 7.10.19
+**Create self signed ssl certificate** for development purposes using OpenSSL
+
+```
+$ openssl version
+
+$ openssl genrsa 2048 > privatekey.pem
+
+$ openssl req -new -key privatekey.pem -out csr.pem
+
+$ openssl x509 -req -days 365 -in csr.pem -signkey privatekey.pem -out public.crt
+```
