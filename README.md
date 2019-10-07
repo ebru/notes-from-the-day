@@ -207,6 +207,12 @@ Indie making communities
 **AWS Elastic Beanstalk** Docker Multi Container Deployment
 
 ```
+Short version with awsebcli
+
+$ eb deploy
+
+Long version
+
 $ zip -r deployment.zip .
 
 $ aws s3 mb s3://test-docker-eb --region eu-west-1
