@@ -343,6 +343,7 @@ $ openssl x509 -req -days 365 -in csr.pem -signkey privatekey.pem -out public.cr
 
 ### 21.10.19
 **XSS**: Cross-site scripting attacks
+
 Injecting a malicious script into trusted websites.
 
 ```
@@ -352,6 +353,7 @@ Injecting a malicious script into trusted websites.
 Injecting through input fields etc. React prevents this as default while permitting setting innerHTML directly.
 
 **CSRF**: Cross-site request forgery
+
 An attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.
 
 1. Check for the request if it comes from the same origin. CORS.
