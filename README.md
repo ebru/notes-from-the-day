@@ -347,7 +347,7 @@ $ openssl x509 -req -days 365 -in csr.pem -signkey privatekey.pem -out public.cr
 Injecting a malicious script into trusted websites.
 
 ```
-<script>alert('hello);</script>
+<script>alert('hello');</script>
 ```
 
 Injecting through input fields etc. React prevents this as default while permitting setting innerHTML directly.
