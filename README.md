@@ -352,6 +352,11 @@ Injecting a malicious script into trusted websites.
 
 Injecting through input fields etc. React prevents this as default while permitting setting innerHTML directly.
 
+1. Escaping
+2. Validating input
+3. Sanitizing
+4. CSP (Content security policy)
+
 **CSRF**: Cross-site request forgery
 
 An attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.
