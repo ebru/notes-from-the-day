@@ -342,7 +342,7 @@ $ openssl x509 -req -days 365 -in csr.pem -signkey privatekey.pem -out public.cr
 ---
 
 ### 21.10.19
-**XSS**: Cross-site scripting attacks
+**XSS: Cross-site scripting attacks**
 
 Injecting a malicious script into trusted websites.
 
@@ -357,9 +357,40 @@ Injecting through input fields etc. React prevents this as default while permitt
 3. Sanitizing
 4. CSP (Content security policy)
 
-**CSRF**: Cross-site request forgery
+**CSRF: Cross-site request forgery**
 
 An attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.
 
 1. Check for the request if it comes from the same origin. CORS.
 2. Signed token must be provided in the request. JWT.
+
+---
+
+### 22.10.19
+Four Principles of **Object Oriented Programming**
+
+**1. Encapsulation**
+
+Makes all objects manage their state on their own with private variables/methods and only expose some public functionality to other classes. They can use these public methods to modify or reach to the state but they can never directly change it.
+
+
+**2. Polymorphism**
+
+Polymorphism means `many shapes` in Greek. Polymorphism gives a way to use a class exactly like its parent so there’s no confusion with mixing types. But each child class keeps its own methods as they are.
+
+This typically happens by defining a (parent) interface or abstract class to be reused. It outlines a bunch of common methods. Then, each child class implements its own version of these methods and we treat them like the same type of object.
+
+ex.`Figure Interface` lets you create a list of mixed `triangles`, `circles`, and `rectangles`. You can define it once and accept a `Figure` as an argument. Whether you pass a triangle, circle or a rectangle — as long as they implement `CalculatePerimeter()`, their type doesn’t matter.
+
+**3. Inheritance**
+
+Makes us able to share common logic between classes using a child/parent hierarchy. A child can use all functions from its parent and also implement its own unique logic addition to this. This way, we can prevent repetitions on codebase.
+
+
+**4. Abstraction**
+
+Hides the all internal implementation details. It only reveals the high order operations to another classes and it makes a lot of work under the hood that we do not need to care. Implementations can change through time but it does rarely affect the abstractions we use.
+
+https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
+
+Just to remember this easily; **E**ncapsulation **P**olymorphism **I**nheritance ~~**C**~~ **A**bstraction, EPICA.
