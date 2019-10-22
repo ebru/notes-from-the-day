@@ -393,7 +393,7 @@ It makes us able to share common logic between classes using a child/parent hier
 
 **4. Abstraction**
 
-Hides the all internal implementation details. It only reveals the high order operations to other classes and it makes a lot of work under the hood that we do not need to care for. Implementations can change through time but it does rarely affect the abstractions we use.
+Hides all internal implementation details. It only reveals the high order operations to other classes and it makes a lot of work under the hood that we do not need to care for. Implementations can change through time but it does rarely affect the abstractions we use.
 
 https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
 
