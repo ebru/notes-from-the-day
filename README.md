@@ -262,7 +262,7 @@ https://www.udemy.com/complete-react-developer-zero-to-mastery/
 ### 29.8.19
 **What is the difference between Docker and Virtual Machines?**
 
-In docker, isolation is done on the kernel level without the need for a quest operating system. It shares the host operating system.
+In docker, isolation is done on the kernel level without the need for a guest operating system. It shares the host operating system.
 
 **What is the relation between Docker and Kubernetes?**
 
