@@ -1,12 +1,16 @@
 # notes from the day.
 This is a little diary for me to track the progress, learning or any finding for each day.
 
-I have noted little snippets for the whole year starting in May that I have run into somehow and would like to keep to check anytime to remind myself. Since I have really enjoyed doing this and reading again, I decided to make this public and continue to do for the next year as well.
+I have taken some notes as little snippets starting in May this year that I have found useful to keep as a reminder or just with the purpose of setting starting points. 
 
-Here go the ones of 2019, happy learning 🚀
+Since I have really enjoyed reading them again some time to time, I decided to make this public considering it might be useful for anyone and keep it in this way from now on.
+
+There might be things that I have expressed, known or typed wrong. If there is anything you would like to fix please feel free to open a pull request.
+
+Here go the ones so far, happy learning 🚀
 
 ### 25.5.19
-- Created a learning roadmap for full-stack web development with the stack below.
+- Created a learning roadmap for full-stack web development.
 
 `JavaScript ES6` `React` `Redux` `Node.js` `Express` `GraphQL` `Apollo` `MongoDB` `Mongoose` `AWS` `Docker`
 
