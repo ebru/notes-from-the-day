@@ -6,7 +6,9 @@ I have noted little snippets for the whole year starting in May that I have run 
 Here go the ones of 2019, happy learning 🚀
 
 ### 25.5.19
-- Created a web development learning roadmap.
+- Created a modern web development learning roadmap with the stack below.
+
+`React` `Redux` `Node.js` `Express` `GraphQL` `Apollo` `MongoDB` `Mongoose` `AWS` `Docker`
 
 - **CS50**'s Introduction to Computer Science by Harvard University on edX, **Week 0**
 
