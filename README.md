@@ -95,7 +95,7 @@ https://internetingishard.com/html-and-css/
 ---
 
 ### 1.7.19
-Yearly objectives has been set.
+Yearly objectives have been set.
 
 1. **AWS Certified Developer – Associate** to get.
 2. Have expertise on **Symfony.**
@@ -266,12 +266,12 @@ In docker, isolation is done on the kernel level without the need for a guest op
 
 **What is the relation between Docker and Kubernetes?**
 
-Kubernetes is a container orchestration system for Docker containers and uses pods which include one container or more. Kubernetes is a tool that coordinates and schedules containes, solves how different containers communicate each other and how can container instances be scaled.
+Kubernetes is a container orchestration system for Docker containers and uses pods which include one container or more. Kubernetes is a tool that coordinates and schedules containers, solves how different containers communicate with each other and how can container instances be scaled.
 
 **What is the difference between imperative and declarative deployments?**
 
 In imperative deployments, you say what to do, decide on current states and all steps to do.
-In declarative deployments, you say what you need in a config file and a tool does it for you. (Like master in k8s.) It is done somehow and you do not care about previous steps.
+In declarative deployments, you say what you need in a config file and a tool does it for you. (Like the master in k8s.) It is done somehow and you do not care about previous steps.
 
 ---
 
@@ -366,16 +366,16 @@ Injecting through input fields etc. React prevents this as default while permitt
 An attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.
 
 1. Check for the request if it comes from the same origin. CORS.
-2. Signed token must be provided in the request. JWT.
+2. A signed token must be provided in the request. JWT.
 
 ---
 
 ### 22.10.19
-Four Principles of **Object Oriented Programming**
+Four Principles of **Object-Oriented Programming**
 
 **1. Encapsulation**
 
-Makes all objects manage their state on their own with private variables/methods and only expose some public functionality to other classes. They can use these public methods to modify or reach to the state but they can never directly change it.
+It makes all objects manage their state on their own with private variables/methods and only expose some public functionality to other classes. They can use these public methods to modify or reach the state but they can never directly change it.
 
 
 **2. Polymorphism**
@@ -384,16 +384,16 @@ Polymorphism means `many shapes` in Greek. Polymorphism gives a way to use a cla
 
 This typically happens by defining a (parent) interface or abstract class to be reused. It outlines a bunch of common methods. Then, each child class implements its own version of these methods and we treat them like the same type of object.
 
-ex.`Figure Interface` lets you create a list of mixed `triangles`, `circles`, and `rectangles`. You can define it once and accept a `Figure` as an argument. Whether you pass a triangle, circle or a rectangle — as long as they implement `CalculatePerimeter()`, their type doesn’t matter.
+ex.`Figure Interface` lets you create a list of mixed `triangles`, `circles`, and `rectangles`. You can define it once and accept a `Figure` as an argument. Whether you pass a triangle, circle or rectangle — as long as they implement `CalculatePerimeter()`, their type doesn’t matter.
 
 **3. Inheritance**
 
-Makes us able to share common logic between classes using a child/parent hierarchy. A child can use all functions from its parent and also implement its own unique logic addition to this. This way, we can prevent repetitions on codebase.
+It makes us able to share common logic between classes using a child/parent hierarchy. A child can use all functions from its parent and also implement its own unique logic addition to this. This way, we can prevent repetitions on the codebase.
 
 
 **4. Abstraction**
 
-Hides the all internal implementation details. It only reveals the high order operations to another classes and it makes a lot of work under the hood that we do not need to care. Implementations can change through time but it does rarely affect the abstractions we use.
+Hides the all internal implementation details. It only reveals the high order operations to other classes and it makes a lot of work under the hood that we do not need to care for. Implementations can change through time but it does rarely affect the abstractions we use.
 
 https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
 
