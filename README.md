@@ -1,7 +1,7 @@
 # notes from the day.
 This is a little diary for me to track the progress, learning or any finding for each day.
 
-I have noted little snippets for the whole year that I have run into somehow and would like to keep to check anytime to remind myself. Since I have really enjoyed doing this and reading again, I decided to make this public and continue to do for the next year as well.
+I have noted little snippets for the whole year starting in May that I have run into somehow and would like to keep to check anytime to remind myself. Since I have really enjoyed doing this and reading again, I decided to make this public and continue to do for the next year as well.
 
 Here go the ones of 2019, happy learning 🚀
 
