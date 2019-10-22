@@ -363,12 +363,16 @@ Injecting through input fields etc. React prevents this as default while permitt
 3. Sanitizing
 4. CSP (Content security policy)
 
+*"If an attacker can execute code on your domain, your JWT tokens are vulnerable. Our CTO has argued in the past that XSS attacks are much easier to deal with compared to XSRF attacks because they are generally better understood. Many frameworks, including Angular, automatically sanitize inputs and prevent arbitrary code execution." dzone*
+
 **CSRF: Cross-site request forgery**
 
 An attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.
 
 1. Check for the request if it comes from the same origin. CORS.
 2. A signed token must be provided in the request. JWT.
+
+*"Cross Site Request Forgery attacks are not an issue if you are using JWT with local storage. On the other hand, if your use case requires you to store the JWT in a cookie, you will need to protect against XSRF. XSRF are not as easily understood as XSS attacks." dzone*
 
 ---
 
