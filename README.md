@@ -299,7 +299,7 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
 ---
 
 ### 2.10.19
-- **Algorithms and Data Structures, Again!**, JavaScript Algorithms and Data Structures Masterclass on Udemy
+- **Algorithms and Data Structures, again!** JavaScript Algorithms and Data Structures Masterclass on Udemy
 
 https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/
 
@@ -408,3 +408,37 @@ Hides all internal implementation details. It only reveals the high order operat
 https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
 
 Just to remember this easily; **E**ncapsulation **P**olymorphism **I**nheritance ~~**C**~~ **A**bstraction, EPICA.
+
+---
+
+### 23.10.19
+**Override hash and equals method**
+
+We can override the equals and hash method of a key object to determine how the hash code is generated and when two key objects should be considered equal. This way, we can come up with a custom hash behavior.
+
+`obj1 = Example('test')`
+
+`obj2 = Example('test')`
+
+`obj1` does not equal `obj2` since they are completely new objects by reference and they will have different hashes as default. But if we modify hash functionality like below, they will be treated as the same by hash map/dict.
+
+```
+class Example:
+  def __init__(self, x):
+    self.x = x
+
+  def __hash__(self):
+    # Hash by the value of x
+    return hash(self.x)
+ 
+  def __eq__(self, other):
+    return (
+      self.__class__ == other.__class__ and
+      # Compare the values of x to determine the equality
+      self.x == other.x
+    )
+```
+
+https://hynek.me/articles/hashes-and-equality/
+
+https://stackoverflow.com/questions/390250/elegant-ways-to-support-equivalence-equality-in-python-classes
