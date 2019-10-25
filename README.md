@@ -442,3 +442,23 @@ class Example:
 https://hynek.me/articles/hashes-and-equality/
 
 https://stackoverflow.com/questions/390250/elegant-ways-to-support-equivalence-equality-in-python-classes
+
+
+---
+
+### 25.10.19
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+**@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @**
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+ECDSA host key for `'your server hostname or ip'` has changed and you have requested strict checking.
+
+Use ssh-keygen to delete the invalid key.
+
+```
+$ ssh-keygen -R 'your server hostname or ip'
+```
+
+https://www.digitalocean.com/community/questions/warning-remote-host-identification-has-changed
