@@ -462,3 +462,10 @@ $ ssh-keygen -R 'your server hostname or ip'
 ```
 
 https://www.digitalocean.com/community/questions/warning-remote-host-identification-has-changed
+
+---
+
+### 26.10.19
+How to Learn **Software Design and Architecture** - a Roadmap
+
+https://www.freecodecamp.org/news/software-design/
