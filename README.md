@@ -469,3 +469,39 @@ https://www.digitalocean.com/community/questions/warning-remote-host-identificat
 How to Learn **Software Design and Architecture** - a Roadmap
 
 https://www.freecodecamp.org/news/software-design/
+
+---
+
+### 27.10.19
+GraphQL Queries with **Apollo React Hooks**
+
+```
+import { useQuery } from '@apollo/react-hooks';
+import gql from 'graphql-tag';
+
+const GET_USER = gql`
+    query getUser($userId: ID!) {
+        getUser(userId: $userId) {
+            name
+        }
+    }
+`;
+
+const UserProfile = ({ userId }) => {
+  const { data, loading, error } = useQuery(
+      GET_USER,
+      { variables: { userId } }
+  );
+
+  if (loading) return <Spinner />;
+  if (error) return <p>Error: {error.message}</p>;
+
+  const { name } = data.getUser;
+
+  return (
+    <h1>{name}</h1>
+  )
+}
+```
+
+https://blog.apollographql.com/apollo-client-now-with-react-hooks-676d116eeae2
