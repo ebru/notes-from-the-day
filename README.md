@@ -369,7 +369,7 @@ Injecting through input fields etc. React prevents this as default while permitt
 
 *"If an attacker can execute code on your domain, your JWT tokens are vulnerable. Our CTO has argued in the past that XSS attacks are much easier to deal with compared to XSRF attacks because they are generally better understood. Many frameworks, including Angular, automatically sanitize inputs and prevent arbitrary code execution." dzone*
 
-**CSRF: Cross-site request forgery**
+**XSRF: Cross-site request forgery**
 
 An attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.
 
