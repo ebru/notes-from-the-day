@@ -505,3 +505,18 @@ const UserProfile = ({ userId }) => {
 ```
 
 https://blog.apollographql.com/apollo-client-now-with-react-hooks-676d116eeae2
+
+---
+
+### 12.11.19
+**Sorting** Algorithms
+
+**1. Bubble Sort**
+
+A sorting algorithm where the largest values bubble up to the top. Loop from the beginning while comparing/swaping each item on each iteration.
+
+```
+// Code
+```
+
+
