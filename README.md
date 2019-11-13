@@ -509,9 +509,7 @@ https://blog.apollographql.com/apollo-client-now-with-react-hooks-676d116eeae2
 ---
 
 ### 12.11.19
-**Sorting** Algorithms
-
-**1. Bubble Sort**
+**1. Bubble Sort** // Sorting Algorithms
 
 A sorting algorithm where the largest values bubble up to the top. Loop from the beginning while comparing/swaping each item on each iteration.
 
@@ -559,4 +557,58 @@ const bubbleSort = arr => {
 }
 ```
 
+---
 
+### 13.11.19
+DDD: **Domain-Driven Design**
+
+A domain-driven design architecture is designed to grow incrementally over time. The domain influences the system, the system influences the domain. There is a cycle.
+
+**1. Collaborative**
+
+Business people and developers must work together daily throughout the project.
+
+**2. Modeling**
+
+Structure of the code models one-to-one to the structure of the domain. All collaborators can make sense of the structure. Changes are made to the domain, which maps to where code changes should occur.
+
+**3. DDD Is Incremental**
+
+Come up with only enough architecture to solve the immediate problem. The code evolves as you learn more about the problem and more architecture is added.
+
+```
+"Business people and developers must work together daily through the project."
+- Agile Manifesto
+```
+
+- Make a small change and release.
+- Assess (feedback).
+- Inspect and adapt.
+- Improve.
+
+Stories in agile describe end user performing a domain-driven, result-oriented task, **your user’s** work.
+
+**Microservices.** Every entity should be associated with one context with their own properties.
+
+ex. Store and Warehouse should have Product entity differently.
+
+Store -> `Product (shelf, size, weight)` // Warehouse -> `Product (image, price)`
+
+- Move away from relational database thinking.
+- Bad to have single product object in multiple contexts.
+
+Everything stays context specific.
+
+**Reactive vs Declarative Systems.** When an order is placed;
+
+In **declarative systems**, Shopping service tells Billing, Warehouse and Email services what to do directly and is aware of their existences. There is a tight relationship between services.
+
+`issueInvoice()` to Billing, `queueItem()` to Warehouse, `emailCustomer()` to Email
+
+In **reactive systems**, Shopping service fires an event and does not care about which systems will use it. It eliminates coupled relationships between downstream and upstream services.
+
+`orderPlaced()` is fired to announce an order is placed. Any related service will handle the next on their own with publish-subscribe model.
+
+In DDD, the majority of communication between entities should be a reactive model and best way to do this to use a messaging system like **Kafka**, **RabbitMQ**.
+
+https://www.linkedin.com/learning/software-architecture-domain-driven-design/
