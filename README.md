@@ -566,7 +566,10 @@ A domain-driven design architecture is designed to grow incrementally over time.
 
 **1. Collaborative**
 
-Business people and developers must work together daily throughout the project.
+```
+"Business people and developers must work together daily through the project."
+- Agile Manifesto
+```
 
 **2. Modeling**
 
@@ -575,11 +578,6 @@ Structure of the code models one-to-one to the structure of the domain. All coll
 **3. DDD Is Incremental**
 
 Come up with only enough architecture to solve the immediate problem. The code evolves as you learn more about the problem and more architecture is added.
-
-```
-"Business people and developers must work together daily through the project."
-- Agile Manifesto
-```
 
 - Make a small change and release.
 - Assess (feedback).
@@ -603,7 +601,7 @@ Everything stays context specific.
 
 In **declarative systems**, Shopping service tells Billing, Warehouse and Email services what to do directly and is aware of their existences. There is a tight relationship between services.
 
-`issueInvoice()` to Billing, `queueItem()` to Warehouse, `emailCustomer()` to Email
+`issueInvoice()` to Billing, `queueItem()` to Warehouse, `emailCustomer()` to Email.
 
 In **reactive systems**, Shopping service fires an event and does not care about which systems will use it. It eliminates coupled relationships between downstream and upstream services.
 
