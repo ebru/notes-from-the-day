@@ -338,6 +338,13 @@ $ openssl req -new -key privatekey.pem -out csr.pem
 $ openssl x509 -req -days 365 -in csr.pem -signkey privatekey.pem -out public.crt
 ```
 
+```
+$ openssl req -x509 -out localhost.crt -keyout localhost.key \
+  -newkey rsa:2048 -nodes -sha256 \
+  -subj '/CN=localhost' -extensions EXT -config <( \
+   printf "[dn]\nCN=localhost\n[req]\ndistinguished_name = dn\n[EXT]\nsubjectAltName=DNS:localhost\nkeyUsage=digitalSignature\nextendedKeyUsage=serverAuth")
+```
+
 ---
 
 ### 18.10.19
