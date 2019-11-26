@@ -617,3 +617,14 @@ In **reactive systems**, Shopping service fires an event and does not care about
 In DDD, the majority of communication between entities should be a reactive model and best way to do this to use a messaging system like **Kafka**, **RabbitMQ**.
 
 https://www.linkedin.com/learning/software-architecture-domain-driven-design/
+
+---
+
+### 26.11.19
+
+```
+"Just enjoy your tea and a cookie.
+And be nice to the people around you.
+That's all there is.
+Everything else is just filling time."
+```
