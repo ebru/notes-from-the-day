@@ -632,6 +632,16 @@ Everything else is just filling time."
 ---
 
 ### 01.12.19
-The Modern **GraphQL Bootcamp** (with Node.js and Apollo)
+- The Modern **GraphQL Bootcamp** (with Node.js and Apollo)
 
 https://www.udemy.com/course/graphql-bootcamp/
+
+- C4n y0u H4ck 1t 👾 - The AIS Hacking Challenge
+
+https://hack.ainfosec.com/
+
+- **Advent of Code**: 2019
+
+This is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. It takes places each year starting on 1st of December.
+
+https://adventofcode.com/2019/
