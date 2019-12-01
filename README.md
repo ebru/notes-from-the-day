@@ -190,14 +190,13 @@ https://www.freecodecamp.org/news/what-you-need-to-become-a-full-stack-serverles
 ### 29.7.19
 React Component Libraries
 
-- **Grommet Design Kit** - https://github.com/grommet/design-kit
 - **Ant Design of React** - https://ant.design/docs/react/introduce
+- **Grommet Design Kit** - https://github.com/grommet/design-kit
 - **Material UI** - https://material-ui.com/
 
 React Admin Dashboard Templates
 
 - **Shards Dashboard** - https://designrevision.com/demo/shards-dashboard-lite-react/blog-overview#
-- **Antd Admin** - https://antd-admin.zuiidea.com/en/dashboard
 - **Devias Kit** - https://react-material-dashboard.devias.io/dashboard
 - **CoreUI Dashboard** - https://coreui.io/react/demo/#/dashboard
 - **Tabler React** - http://tabler-react.com/
@@ -642,6 +641,6 @@ https://hack.ainfosec.com/
 
 - **Advent of Code**: 2019
 
-This is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. It takes places each year starting on 1st of December.
+This is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. It takes place each year starting on 1st of December.
 
 https://adventofcode.com/2019/
