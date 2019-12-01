@@ -101,10 +101,10 @@ https://internetingishard.com/html-and-css/
 ---
 
 ### 1.7.19
-Yearly objectives have been set.
+~~Yearly objectives have been set.~~ (Plans are changed.)
 
-1. **AWS Certified Developer – Associate** to get.
-2. Have expertise on **Symfony.**
+~~1. **AWS Certified Developer – Associate** to get.~~
+~~2. Have expertise on **Symfony.**~~
 
 
 ---
@@ -628,3 +628,10 @@ And be nice to the people around you.
 That's all there is.
 Everything else is just filling time."
 ```
+
+---
+
+### 01.12.19
+The Modern **GraphQL Bootcamp** (with Node.js and Apollo)
+
+https://www.udemy.com/course/graphql-bootcamp/
