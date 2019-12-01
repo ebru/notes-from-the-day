@@ -101,7 +101,7 @@ https://internetingishard.com/html-and-css/
 ---
 
 ### 1.7.19
-~~Yearly objectives have been set.~~ (Plans are changed.)
+~~Yearly objectives have been set.~~ (The plans are changed.)
 
 ~~1. **AWS Certified Developer – Associate** to get.~~
 ~~2. Have expertise on **Symfony.**~~
