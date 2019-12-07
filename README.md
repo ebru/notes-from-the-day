@@ -644,3 +644,30 @@ https://hack.ainfosec.com/
 This is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. It takes place each year starting on 1st of December.
 
 https://adventofcode.com/2019/
+
+---
+
+### 07.12.19
+Asynchronous with **Redux Saga**
+
+Sagas intercept actions with side effects and handle them, Redux reducers remain pure. Redux Saga utilizes ES6 generator functions for this. Generators allow for synchronously written asynchronous code. 
+
+A generator will automatically pause - or yield - at each asynchronous call until it completes before continuing. This paradigm allows for much simpler and more readable code by centralizing asynchronous logic for more manageable and sophisticated async flows.
+
+ **fork** → Performs a non-blocking operation on the function passed.
+
+ **take** → Pauses until action received.
+
+ **race** → Runs effects simultaneously, then cancels them all once one finishes.
+
+ **call** → Runs function. If it returns a promise, pauses the Saga until resolved.
+
+ **put** → Dispatches an action.
+
+ **select** → Runs a selector function to get data from the state.
+
+ **takeLatest** → Executes the operation, returns only the results of the last call.
+
+ **takeEvery** → Will return results for all the calls triggered.
+
+https://dev.to/irmerk/asynchronous-with-redux-sagas-44dm
