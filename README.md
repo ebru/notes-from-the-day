@@ -671,3 +671,43 @@ A generator will automatically pause - or yield - at each asynchronous call 
  **takeEvery** → Will return results for all the calls triggered.
 
 https://dev.to/irmerk/asynchronous-with-redux-sagas-44dm
+
+---
+
+### 12.12.19
+**Waiting for user to stop typing** on handling input changes / React
+
+```
+const ChooseUsername = () => {
+  const [username, setUsername] = useState('ebru')
+  
+  const checkUsername = username => {
+    if (username !== 'ebru') {
+      setCheckIcon(availableState)
+    } else {
+      setCheckIcon(alreadyTakenState)
+    }
+  }
+  
+  useEffect(() => {
+    const timeout = setTimeout(() => {
+      console.log('username', username)
+      checkUsername(username)
+    }, 500)
+
+    return () => clearTimeout(timeout)
+  }, [username])
+  
+  ...
+  
+  <FormInput
+    type='text'
+    value={username}
+    onChange={event => setUsername(event.target.value)}
+    label='Username'
+    required
+  />
+  
+  ...
+}
+```
