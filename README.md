@@ -190,9 +190,10 @@ https://www.freecodecamp.org/news/what-you-need-to-become-a-full-stack-serverles
 ### 29.7.19
 React Component Libraries
 
+- **Semantic UI** - https://react.semantic-ui.com/
 - **Ant Design of React** - https://ant.design/docs/react/introduce
-- **Grommet Design Kit** - https://github.com/grommet/design-kit
 - **Material UI** - https://material-ui.com/
+- **Grommet Design Kit** - https://github.com/grommet/design-kit
 
 React Admin Dashboard Templates
 
