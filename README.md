@@ -712,3 +712,10 @@ const ChooseUsername = () => {
   ...
 }
 ```
+
+---
+
+### 22.12.19
+Web development, **illustrated.** Illustrated Explainers & Sketchnotes
+
+https://illustrated.dev/
