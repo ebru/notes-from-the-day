@@ -29,3 +29,12 @@ Authorization refers to rules that determine who is allowed to do what. E.g. Ada
 In terms of web apps, authentication is when you check login credentials to see if you recognize a user as logged in, and authorization is when you look up in your access control whether you allow the user to view, edit, delete or create content.
 
 https://stackoverflow.com/questions/6556522/authentication-versus-authorization
+
+---
+
+### 5.1.20
+**Learn the Newest and Easiest React Native Stack**
+
+https://www.udemy.com/course/how-to-make-a-full-stack-react-native-app-with-easy-backend/
+
+I really liked this course since it explains things to the point in such a short time to get an overall idea of the concept. Kudos to instructor 👏🏻
