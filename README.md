@@ -46,3 +46,5 @@ I really liked this course since it explains things to the point in such a short
 
 - **React Native Elements** - https://react-native-elements.github.io/react-native-elements/docs/overview.html
 - **React Native UI Kitten** - https://akveo.github.io/react-native-ui-kitten/docs/components/components-overview
+- **NativeBase** - https://docs.nativebase.io/Components.html
+- **Shoutem UI Kit** - https://shoutem.github.io/docs/ui-toolkit/components/typography
