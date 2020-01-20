@@ -38,3 +38,11 @@ https://stackoverflow.com/questions/6556522/authentication-versus-authorization
 https://www.udemy.com/course/how-to-make-a-full-stack-react-native-app-with-easy-backend/
 
 I really liked this course since it explains things to the point in such a short time to get an overall idea of the concept. Kudos to instructor 👏🏻
+
+---
+
+### 20.1.20
+**React Native UI Kits**
+
+- **React Native Elements** - https://react-native-elements.github.io/react-native-elements/docs/overview.html
+- **React Native UI Kitten** - https://akveo.github.io/react-native-ui-kitten/docs/components/components-overview
