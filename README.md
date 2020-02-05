@@ -42,7 +42,7 @@ I really liked this course since it explains things to the point in such a short
 ---
 
 ### 20.1.20
-**React Native UI Kits**
+React Native **UI Kits**
 
 - **React Native Elements** - https://react-native-elements.github.io/react-native-elements/docs/overview.html
 - **React Native UI Kitten** - https://akveo.github.io/react-native-ui-kitten/docs/components/components-overview
