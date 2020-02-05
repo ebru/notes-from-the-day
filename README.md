@@ -48,3 +48,13 @@ I really liked this course since it explains things to the point in such a short
 - **React Native UI Kitten** - https://akveo.github.io/react-native-ui-kitten/docs/components/components-overview
 - **NativeBase** - https://docs.nativebase.io/Components.html
 - **Shoutem UI Kit** - https://shoutem.github.io/docs/ui-toolkit/components/typography
+
+---
+
+### 5.2.20
+What is the difference between `while(true)` and `while(yield take(...))` in Redux-Saga?
+
+- Don't need an action yielded from take effect, **while(yield take(...))**
+- Otherwise, **while(true)**; const { limit, offset } = yield take...
+
+https://github.com/redux-saga/redux-saga/issues/684
