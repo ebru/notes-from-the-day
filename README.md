@@ -33,7 +33,7 @@ https://stackoverflow.com/questions/6556522/authentication-versus-authorization
 ---
 
 ### 5.1.20
-**Learn the Newest and Easiest React Native Stack**
+Learn the Newest and Easiest **React Native Stack** on Udemy
 
 https://www.udemy.com/course/how-to-make-a-full-stack-react-native-app-with-easy-backend/
 
@@ -48,6 +48,14 @@ I really liked this course since it explains things to the point in such a short
 - **React Native UI Kitten** - https://akveo.github.io/react-native-ui-kitten/docs/components/components-overview
 - **NativeBase** - https://docs.nativebase.io/Components.html
 - **Shoutem UI Kit** - https://shoutem.github.io/docs/ui-toolkit/components/typography
+
+
+---
+
+### 3.2.20
+Advanced **JavaScript Concepts** on Udemy
+
+https://www.udemy.com/course/advanced-javascript-concepts/
 
 ---
 
