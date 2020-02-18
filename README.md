@@ -66,3 +66,25 @@ What is the difference between `while(true)` and `while(yield take(...))` in Red
 - Otherwise, **while(true)**; const { limit, offset } = yield take...
 
 https://github.com/redux-saga/redux-saga/issues/684
+
+---
+
+### 18.2.20
+What is the difference between `splice` and `slice`?
+
+**splice()** changes the original array whereas **slice()** doesn't.
+
+```
+array -> [1,2,3,4,5]
+console.log(array.splice(2)); // [3,4,5]
+```
+
+The original array is affected resulting in array being [1, 2]
+
+```
+array -> [1,2,3,4,5]
+console.log(array.slice(2)); // [3,4,5]
+```
+The original array is **NOT** affected with resulting in array being [1, 2, 3, 4, 5]
+
+https://stackoverflow.com/questions/37601282/javascript-array-splice-vs-slice
