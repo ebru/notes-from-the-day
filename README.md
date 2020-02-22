@@ -88,3 +88,10 @@ console.log(array.slice(2)); // [3,4,5]
 The original array is **NOT** affected with resulting in array being [1, 2, 3, 4, 5]
 
 https://stackoverflow.com/questions/37601282/javascript-array-splice-vs-slice
+
+---
+
+### 23.2.20
+**How burnout makes us less creative** | The Way We Work, a TED series
+
+https://www.youtube.com/watch?v=Dvhu2OK7ffg
