@@ -92,6 +92,12 @@ https://stackoverflow.com/questions/37601282/javascript-array-splice-vs-slice
 ---
 
 ### 23.2.20
-**How burnout makes us less creative** | The Way We Work, a TED series
+- **How burnout makes us less creative** | The Way We Work, a TED series
 
 https://www.youtube.com/watch?v=Dvhu2OK7ffg
+
+- **Apollo GraphQL Tutorial** - Learn how to build full-stack apps with Apollo
+
+https://www.apollographql.com/docs/tutorial/introduction/
+
+
