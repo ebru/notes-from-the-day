@@ -101,3 +101,14 @@ https://www.youtube.com/watch?v=Dvhu2OK7ffg
 https://www.apollographql.com/docs/tutorial/introduction/
 
 
+---
+
+### 1.3.20
+
+```
+"that even the ugliest of places can be beautiful, as long as you take the time to look.
+that it's ok to get lost, as long as you find your way back."
+
+— all the bright places
+```
+
