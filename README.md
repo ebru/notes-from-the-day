@@ -112,3 +112,13 @@ that it's okay to get lost, as long as you find your way back."
 — all the bright places
 ```
 
+---
+
+### 26.3.20
+
+Yey! I wrote an article.
+
+**a journey of making a little side project.**
+
+https://medium.com/@ebrukye/a-journey-of-making-a-little-side-project-d18088271876
+
