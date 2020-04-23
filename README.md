@@ -122,3 +122,11 @@ Yey! I wrote an article.
 
 https://medium.com/@ebrukye/a-journey-of-making-a-little-side-project-d18088271876
 
+---
+
+### 23.4.20
+
+**Update versions of all packages in package.json to latest**
+
+`yarn upgrade --latest`
+
