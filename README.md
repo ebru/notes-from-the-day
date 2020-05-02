@@ -134,8 +134,12 @@ https://medium.com/@ebrukye/a-journey-of-making-a-little-side-project-d180882718
 
 ### 2.5.20
 
-An easy way to apply **authentication flow with Netlify Identity**
+- An easy way to apply **authentication flow with Netlify Identity** without a server need
 
 Netlify Identity + https://github.com/netlify/gotrue-js
 
 Demo site: https://gotruejs-playground.netlify.app/
+
+- Deep learning **color generator** - Eva Design System
+
+https://colors.eva.design/
