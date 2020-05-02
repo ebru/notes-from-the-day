@@ -130,3 +130,12 @@ https://medium.com/@ebrukye/a-journey-of-making-a-little-side-project-d180882718
 
 `yarn upgrade --latest`
 
+---
+
+### 2.5.20
+
+An easy way to apply **authentication flow with Netlify Identity**
+
+Netlify Identity + https://github.com/netlify/gotrue-js
+
+Demo site: https://gotruejs-playground.netlify.app/
