@@ -143,3 +143,11 @@ Demo site: https://gotruejs-playground.netlify.app/
 - Deep learning **color generator** - Eva Design System
 
 https://colors.eva.design/
+
+---
+
+### 1.7.20
+
+Taking a break from 9-5. https://medium.com/@ebrukye/taking-a-break-from-9-5-1a08f9ac938f
+
+A new journey begins with **Noe Crafts** 🎉 https://noecrafts.com
