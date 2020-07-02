@@ -151,3 +151,11 @@ https://colors.eva.design/
 Taking a break from 9-5. https://medium.com/@ebrukye/taking-a-break-from-9-5-1a08f9ac938f
 
 A new journey begins with **Noe Crafts** 🎉 https://noecrafts.com
+
+---
+
+### 2.7.20
+
+> "First and most important, the quest for personal freedom lies in the pursuit of value for others. Get this right from the beginning and the rest will be much easier. Always ask, `How can I help people more?`" 
+
+— The $100 Startup by Chris Guillebeau
