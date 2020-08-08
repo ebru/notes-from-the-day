@@ -159,3 +159,13 @@ A new journey begins with **Noe Crafts** 🎉 https://noecrafts.com
 > "First and most important, the quest for personal freedom lies in the pursuit of value for others. Get this right from the beginning and the rest will be much easier. Always ask, `How can I help people more?`" 
 
 — The $100 Startup by Chris Guillebeau
+
+---
+
+### 8.8.20
+Get **SSH public key**
+
+```
+$ ssh-keygen
+$ cat ~/.ssh/id_rsa.pub
+```
