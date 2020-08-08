@@ -163,9 +163,23 @@ A new journey begins with **Noe Crafts** 🎉 https://noecrafts.com
 ---
 
 ### 8.8.20
-Get **SSH public key**
+- Get **SSH public key**
 
 ```
-$ ssh-keygen
-$ cat ~/.ssh/id_rsa.pub
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+```
+
+- Install **yarn** and **docker-compose** on Ubuntu
+
+```
+sudo apt remove cmdtest // special case
+sudo apt remove yarn // special case
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+sudo apt-get update  
+sudo apt-get install yarn
+```
+```
+sudo apt-get install docker-compose
 ```
