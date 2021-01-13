@@ -16,11 +16,18 @@ Here go the ones so far, happy learning 🚀
 
 
 ### 13.1.21
-**Merge with ours/theirs**
+**Resolve merge conflicts keeping our/their changes**
 
-To resolve conflict for all files we can keep our current branch's changes with `Xours` or the destination branch's changes with `Xtheirs`
+To resolve conflict for all files we can keep our current branch's changes with `Xours` or merging branch with `Xtheirs`
 
 ```
 git merge -Xours
 git merge -Xtheirs
+```
+
+For single file;
+
+```
+git checkout --ours src/components/index.js 
+git checkout --theirs src/components/index.js 
 ```
