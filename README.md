@@ -10,7 +10,7 @@ There might be things that I have expressed, known or typed wrong. If there is a
 Here go the ones so far, happy learning 🚀
 ---
 
-| [2019](https://github.com/ebru/notes-from-the-day/blob/master/2019.md) |  |
+| [2020](https://github.com/ebru/notes-from-the-day/blob/master/2020.md) | [2019](https://github.com/ebru/notes-from-the-day/blob/master/2019.md) |
 |--|--|
 |  |  |
 
