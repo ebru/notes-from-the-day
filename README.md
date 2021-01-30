@@ -31,3 +31,8 @@ For single file;
 git checkout --ours src/components/index.js 
 git checkout --theirs src/components/index.js 
 ```
+
+### 30.1.21
+**Install Chromium manually** if it is not automatically installed while installing Puppeteer
+
+`node node_modules/puppeteer/install.js`
