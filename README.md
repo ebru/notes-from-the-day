@@ -32,6 +32,8 @@ git checkout --ours src/components/index.js
 git checkout --theirs src/components/index.js 
 ```
 
+---
+
 ### 30.1.21
 **Install Chromium manually** if it is not automatically installed while installing Puppeteer
 
@@ -39,8 +41,28 @@ git checkout --theirs src/components/index.js
 node node_modules/puppeteer/install.js
 ```
 
+---
 
 ### 8.2.21
 **Solving Problems with Technology** by University of Leeds & Institute of Coding
 
 https://www.futurelearn.com/programs/solving-problems-with-technology
+
+---
+
+### 10.4.21
+Loop over an array with a **delay between iterations**
+
+```
+const delayLoop = (fn, delay) => {
+  return (name, i) => {
+    setTimeout(() => {
+      display(name);
+    }, i * 1000);
+  }
+}
+
+names.forEach(delayLoop(display, 1000))
+```
+
+https://travishorn.com/delaying-foreach-iterations-2ebd4b29ad30
