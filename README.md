@@ -66,3 +66,10 @@ names.forEach(delayLoop(display, 1000))
 ```
 
 https://travishorn.com/delaying-foreach-iterations-2ebd4b29ad30
+
+---
+
+### 13.7.21
+**If you do one thing** this month...
+
+https://www.theguardian.com/lifeandstyle/series/if-you-do-one-thing
