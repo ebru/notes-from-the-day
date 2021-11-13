@@ -73,3 +73,21 @@ https://travishorn.com/delaying-foreach-iterations-2ebd4b29ad30
 **If you do one thing** this month...
 
 https://www.theguardian.com/lifeandstyle/series/if-you-do-one-thing
+
+---
+
+### 13.11.21
+Support **multiple versionsof Java**
+
+```
+# list all possible java versions
+sdk list java
+
+# Install your favourite version
+sdk install java <Identifier>
+
+# Set which version you prefer to be default
+sdk default java <Idenfifier>
+```
+
+https://stackoverflow.com/questions/63157482/cant-downgrade-to-java-jdk-8-from-version-14-on-osx
