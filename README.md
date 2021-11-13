@@ -77,7 +77,7 @@ https://www.theguardian.com/lifeandstyle/series/if-you-do-one-thing
 ---
 
 ### 13.11.21
-Support **multiple versionsof Java**
+Support **multiple versions of Java**
 
 ```
 # list all possible java versions
