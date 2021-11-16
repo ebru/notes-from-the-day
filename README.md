@@ -91,3 +91,21 @@ sdk default java <Idenfifier>
 ```
 
 https://stackoverflow.com/questions/63157482/cant-downgrade-to-java-jdk-8-from-version-14-on-osx
+
+---
+
+### 16.11.21
+- Run **Xcode 12** on MacOS Monterey
+
+```
+/// Download Xcode Version 12.4 for ex.
+
+$ /Applications/Xcode-12.4.app/Contents/MacOS/Xcode
+```
+
+- Support **multiple versions of Xcode Command Line Tools**
+
+```
+xcode-select -p
+sudo xcode-select -s /Applications/Xcode12.4.app/Contents/Developer
+```
