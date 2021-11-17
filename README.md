@@ -109,3 +109,20 @@ $ /Applications/Xcode-12.4.app/Contents/MacOS/Xcode
 xcode-select -p
 sudo xcode-select -s /Applications/Xcode12.4.app/Contents/Developer
 ```
+
+---
+
+### 17.11.21
+**Ignore files locally** in Git
+
+```
+git update-index --skip-worktree <file-list>
+```
+
+Reverse it by:
+
+```
+git update-index --no-skip-worktree <file-list>
+```
+
+https://stackoverflow.com/questions/1753070/how-do-i-configure-git-to-ignore-some-files-locally
