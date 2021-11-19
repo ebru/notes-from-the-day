@@ -126,3 +126,20 @@ git update-index --no-skip-worktree <file-list>
 ```
 
 https://stackoverflow.com/questions/1753070/how-do-i-configure-git-to-ignore-some-files-locally
+
+---
+
+### 19.11.21
+Run **certain android devices** from terminal
+
+To see available device ids:
+
+```
+adb devices
+```
+
+Specify device id with --deviceId:
+
+```
+yarn android --deviceId=DEVICE_ID
+```
