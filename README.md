@@ -23,3 +23,10 @@ https://faruko.space/building-bulletproof-react-native-applications
 - **The Business of Building Apps**
 
 https://youtu.be/poLzjLt2yqU
+
+---
+
+### 6.2.22
+- New **VSCode** theme: ƒ - Darcula - Operator Mono/Italic
+
+https://www.vscolors.com/themes/33474ff6-baf7-461f-8275-a44cfd27d13a-92e5d4da
