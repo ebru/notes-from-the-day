@@ -30,3 +30,39 @@ https://youtu.be/poLzjLt2yqU
 - New **VSCode** theme: ƒ - Darcula - Operator Mono/Italic
 
 https://www.vscolors.com/themes/33474ff6-baf7-461f-8275-a44cfd27d13a-92e5d4da
+
+---
+
+### 10.3.22
+- **React Query** in 100 Seconds
+
+https://youtu.be/novnyCaa7To
+
+- Fetching Data the Right Way
+
+https://telerik.com/blogs/react-query-fetching-data-right-way
+
+- Practical **React Query**
+
+https://tkdodo.eu/blog/practical-react-query
+
+Not everything should be handled by `react-query` or `redux` for example, like in the days it was a popular choice for each need. 
+Especially wrapping all backend calls to a global state is meaningless.
+
+Be aware of the needs of a global state and store; 
+
+- For handling `backend state and its side effects` like `loading, error, data` -> `react-query`, `swr` etc.
+
+- `Local global state` needs like token, theme, selectedLanguage etc. -> `context`, `zustand`, `redux` etc.
+
+- Persistent storage -> AsyncStorage, encrpypted storages etc.
+
+
+```
+"For years, we've made the mistake of treating every state equally by treating our server data like client state.
+We've finally realized that this is sub-optimal, because they have different needs.
+Let's not make the same mistake again in the other direction by wanting to do everything with react query please."
+- TkDodo
+```
+
+https://github.com/tannerlinsley/react-query/discussions/489
