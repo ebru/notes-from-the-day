@@ -82,3 +82,10 @@ https://github.com/tannerlinsley/react-query/discussions/489
 
 - Expo Notifications: https://docs.expo.dev/versions/latest/sdk/notifications/
 
+---
+
+### 12.3.22
+
+**Microinteractions & Animations** in React Native: Help users understand the UI by Catalin Miron
+
+https://youtu.be/a5SgLyfiDnU
