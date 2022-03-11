@@ -66,3 +66,19 @@ Let's not make the same mistake again in the other direction by wanting to do ev
 ```
 
 https://github.com/tannerlinsley/react-query/discussions/489
+
+---
+
+### 11.3.22
+**Local and Push Notifications** in React Native
+
+- Firebase: https://betterprogramming.pub/how-to-set-up-firebase-push-notifications-in-a-react-native-app-a9405af32093
+
+- React Native Notifications: https://github.com/wix/react-native-notifications
+
+- Notifee: https://notifee.app/react-native/docs/overview
+
+- OneSignal: https://documentation.onesignal.com/docs/react-native-sdk-setup
+
+- Expo Notifications: https://docs.expo.dev/versions/latest/sdk/notifications/
+
