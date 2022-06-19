@@ -89,3 +89,11 @@ https://github.com/tannerlinsley/react-query/discussions/489
 **Microinteractions & Animations** in React Native: Help users understand the UI by Catalin Miron
 
 https://youtu.be/a5SgLyfiDnU
+
+---
+
+### 19.6.22
+
+Cleaner data fetching with **react-query**
+
+https://dev.to/siddharthvenkatesh/cleaner-data-fetching-with-react-query-4klg
